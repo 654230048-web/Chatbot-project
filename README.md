@@ -1,0 +1,2 @@
+# Chatbot-project
+เอกสารประกอบและโครงงานการพัฒนาแชทบอทถามตอบด้วยโมเดลภาษาขนาดใหญ่ กรณีศึกษากองพัฒนานักศึกษามหาวิทยาลัยราชภัฏนครปฐม Development of a Chatbot Using a Large Language Model: A Case Study of  Divitions of Student Development Nakhon Pathom Rajabhat University
